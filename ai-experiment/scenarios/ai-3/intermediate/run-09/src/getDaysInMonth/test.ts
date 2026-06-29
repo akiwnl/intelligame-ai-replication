@@ -1,0 +1,9 @@
+import { getDaysInMonth } from "./index";
+
+describe("getDaysInMonth", () => {
+  it("should return the number of days in a month of the given date", () => {
+    const date = new Date(2000, 1);
+    const result = getDaysInMonth(date);
+    expect(result).toBe(29);
+  });
+});

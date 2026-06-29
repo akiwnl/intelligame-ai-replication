@@ -1,0 +1,21 @@
+import { addDays } from "./index";
+
+describe("addDays", () => {
+  it("adds days to the given date", () => {
+    const date = new Date(2014, 8, 1);
+    const result = addDays(date, 10);
+    expect(result.getDate()).toBe(11);
+  });
+
+  it("handles negative days", () => {
+    const date = new Date(2014, 8, 1);
+    const result = addDays(date, -10);
+    expect(result.getDate()).toBe(21);
+  });
+
+  it("handles zero days", () => {
+    const date = new Date(2014, 8, 1);
+    const result = addDays(date, 0);
+    expect(result.getDate()).toBe(1);
+  });
+});

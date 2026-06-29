@@ -1,0 +1,3 @@
+
+import { isFuture } from "./index";
+

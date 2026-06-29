@@ -1,0 +1,15 @@
+{
+  "run_dir": "/home/akiwnl-linux/replication-package/ai-experiment/scenarios/ai-2/complete/run-04",
+  "num_tests": 42,
+  "line_coverage": 98.3,
+  "branch_coverage": 76.92,
+  "mutation_score": 97.83,
+  "mutation_excluded_tests": 1,
+  "golden_failed": 2,
+  "golden_passed": 58,
+  "own_failed": 1,
+  "own_passed": 41,
+  "own_fail_ratio": 0.0238,
+  "smells": 0,
+  "smell_ratio": 0.0
+}

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+
+    "lib": ["dom", "es2020", "es2018.promise", "ESNext.Intl"],
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "strict": true,
+    "esModuleInterop": true
+    // TODO: Enable these when we can:
+    // "noUncheckedIndexedAccess": true,
+    // "exactOptionalPropertyTypes": true
+    // Enable for debug, but keep disabled after that as it slows down builds a lot
+    // "noErrorTruncation": true
+  },
+  "include": ["src/**/*.ts", "test/**/*.ts", "src/*.ts", "main.ts"],
+  "exclude": ["node_modules", "dist", "tmp", "examples"]
+}

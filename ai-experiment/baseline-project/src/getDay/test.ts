@@ -1,0 +1,2 @@
+import { getDay } from "./index";
+

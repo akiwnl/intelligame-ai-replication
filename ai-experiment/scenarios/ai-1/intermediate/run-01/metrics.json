@@ -1,0 +1,15 @@
+{
+  "run_dir": "/home/akiwnl-linux/replication-package/ai-experiment/scenarios/ai-1/intermediate/run-01",
+  "num_tests": 83,
+  "line_coverage": 98.11,
+  "branch_coverage": 83.33,
+  "mutation_score": 81.48,
+  "mutation_excluded_tests": 19,
+  "golden_failed": 3,
+  "golden_passed": 57,
+  "own_failed": 3,
+  "own_passed": 64,
+  "own_fail_ratio": 0.0448,
+  "smells": 2,
+  "smell_ratio": 0.0241
+}

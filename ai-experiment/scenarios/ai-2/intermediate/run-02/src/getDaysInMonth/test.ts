@@ -1,0 +1,13 @@
+import { getDaysInMonth } from "./index";
+
+describe("getDaysInMonth", () => {
+  it("handles regular months", () => {
+    expect(getDaysInMonth(new Date(2021, 0, 1))).toBe(31); // Jan
+    expect(getDaysInMonth(new Date(2021, 3, 1))).toBe(30); // Apr
+  });
+
+  it("handles February leap year", () => {
+    expect(getDaysInMonth(new Date(2000, 1, 1))).toBe(29);
+    expect(getDaysInMonth(new Date(1900, 1, 1))).toBe(28);
+  });
+});

@@ -1,0 +1,39 @@
+# ---- Segredos (NUNCA commitar) ----
+ai-experiment/scripts/env.sh
+.env
+*.key
+
+# ---- Node ----
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ---- Saídas de build / cobertura / mutação ----
+dist/
+coverage/
+.stryker-tmp/
+reports/
+*.tsbuildinfo
+
+# ---- LaTeX (artefatos de compilação) ----
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# ---- IDE / SO ----
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- Temporários ----
+*.tmp
+*.bak

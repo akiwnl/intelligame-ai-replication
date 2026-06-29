@@ -1,0 +1,24 @@
+import { isAfter } from "./index";
+
+describe("isAfter", () => {
+  it("should check if the first date is after the second one", () => {
+    const date = new Date(1989, 6, 10);
+    const dateToCompare = new Date(1987, 1, 11);
+    const result = isAfter(date, dateToCompare);
+    expect(result).toBe(true);
+  });
+
+  it("should handle non-date inputs", () => {
+    const date = "1989-07-10";
+    const dateToCompare = "1987-02-11";
+    const result = isAfter(date, dateToCompare);
+    expect(result).toBe(true);
+  });
+
+  it("should return false if dates are equal", () => {
+    const date = new Date(1989, 6, 10);
+    const dateToCompare = new Date(1989, 6, 10);
+    const result = isAfter(date, dateToCompare);
+    expect(result).toBe(false);
+  });
+});

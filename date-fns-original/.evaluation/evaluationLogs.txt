@@ -1,0 +1,123 @@
+2024-04-29 13:03:34.861 - Notification - Congratulations! You unlocked level 1 of the 'Test Executor' achievement!
+2024-04-29 13:03:34.899 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2024-04-29 13:03:34.96 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-04-29 13:04:26.801 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2024-04-29 13:04:26.838 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-04-29 13:05:01.482 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2024-04-29 13:05:01.553 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-04-29 13:05:18.366 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-04-29 13:05:44.981 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Gotta Catch ’Em All' achievement!
+2024-04-29 16:31:26.217 - Main - Main executed
+2024-04-29 16:31:44.552 - Main - Main executed
+2024-04-29 18:26:14.907 - Main - Main executed
+2024-04-29 18:36:35.243 - Main - Main executed
+2024-04-29 18:46:42.317 - Main - Main executed
+2024-04-29 19:00:22.4 - Main - Main executed
+2024-04-29 19:11:59.695 - Main - Main executed
+2024-04-29 19:12:22.854 - Main - Main executed
+2024-04-29 19:12:40.307 - Main - Main executed
+2024-04-29 19:13:39.949 - Main - Main executed
+2024-04-29 19:13:48.118 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Break the Line' achievement!
+2024-04-29 19:13:52.172 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Debugger' achievement!
+2024-04-29 19:14:05.783 - Main - Main executed
+2024-04-30 13:01:02.335 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Break the Line' achievement!
+2024-04-30 13:18:57.858 - Notification - Congratulations! You unlocked level 1 of the 'Break the Line' achievement!
+2024-04-30 13:18:57.864 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'Take some breaks' achievement!
+2024-04-30 16:02:00.986 - Notification - You are making progress on an achievement! You have already reached 62,00% of the next level of the 'Test Executor' achievement!
+2024-04-30 16:02:01.052 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-04-30 17:16:36.646 - Notification - You are making progress on an achievement! You have already reached 78,00% of the next level of the 'Test Executor' achievement!
+2024-04-30 17:16:36.74 - Notification - You are making progress on an achievement! You have already reached 25,00% of the next level of the 'The Tester' achievement!
+2024-04-30 17:16:36.834 - Notification - Congratulations! You unlocked level 2 of the 'Test Executor' achievement!
+2024-04-30 17:32:57.524 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-04-30 17:34:46.306 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-04-30 17:37:06.025 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-04-30 17:43:00.778 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Break the Line' achievement!
+2024-04-30 17:43:00.779 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Take some breaks' achievement!
+2024-04-30 18:04:27.918 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'The Tester' achievement!
+2024-04-30 18:04:28.098 - Notification - You are making progress on an achievement! You have already reached 25,20% of the next level of the 'Test Executor' achievement!
+2024-04-30 18:07:35.901 - Notification - You are making progress on an achievement! You have already reached 75,00% of the next level of the 'The Tester' achievement!
+2024-04-30 18:07:36.38 - Notification - You are making progress on an achievement! You have already reached 50,20% of the next level of the 'Test Executor' achievement!
+2024-04-30 18:07:37.143 - Notification - Congratulations! You unlocked level 2 of the 'The Tester' achievement!
+2024-04-30 18:35:43.603 - Notification - You are making progress on an achievement! You have already reached 75,50% of the next level of the 'Test Executor' achievement!
+2024-04-30 18:35:43.902 - Notification - Congratulations! You unlocked level 3 of the 'Test Executor' achievement!
+2024-04-30 18:35:44.219 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'The Tester - Advanced' achievement!
+2024-04-30 18:35:44.368 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'The Tester - Advanced' achievement!
+2024-04-30 18:35:44.909 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'The Tester - Advanced' achievement!
+2024-05-02 12:35:06.815 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-05-02 12:35:06.951 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Gotta Catch ’Em All' achievement!
+2024-05-02 12:38:08.082 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-05-02 12:38:08.313 - Notification - Congratulations! You unlocked level 1 of the 'Gotta Catch ’Em All' achievement!
+2024-05-02 12:40:33.692 - Main - Main executed
+2024-05-02 12:41:41.134 - Main - Main executed
+2024-05-02 12:44:16.993 - Main - Main executed
+2024-05-02 12:45:15.903 - Main - Main executed
+2024-05-02 12:46:17.922 - Main - Main executed
+2024-05-02 12:49:26.474 - Main - Main executed
+2024-05-02 15:23:04.243 - Main - Main executed
+2024-05-02 15:27:47.744 - Main - Main executed
+2024-05-02 15:30:47.386 - Main - Main executed
+2024-05-02 15:31:11.297 - Main - Main executed
+2024-05-02 15:31:22.482 - Main - Main executed
+2024-05-02 15:32:00.672 - Main - Main executed
+2024-05-02 15:35:32.207 - Main - Main executed
+2024-05-02 15:41:50.101 - Main - Main executed
+2024-05-02 15:42:04.522 - Main - Main executed
+2024-05-02 15:43:21.078 - Main - Main executed
+2024-05-02 15:43:56.983 - Main - Main executed
+2024-05-02 15:44:26.684 - Main - Main executed
+2024-05-02 15:45:34.642 - Main - Main executed
+2024-05-02 15:51:59.565 - Main - Main executed
+2024-05-02 15:58:57.575 - Main - Main executed
+2024-05-02 16:13:15.482 - Main - Main executed
+2024-05-02 16:22:37.197 - Main - Main executed
+2024-05-02 16:26:23.884 - Main - Main executed
+2024-05-02 16:39:38.202 - Main - Main executed
+2024-05-02 16:42:11.145 - Main - Main executed
+2024-05-02 16:44:08.753 - Main - Main executed
+2024-05-02 16:44:31.167 - Main - Main executed
+2024-05-02 16:47:48.755 - Main - Main executed
+2024-05-02 16:48:42.675 - Main - Main executed
+2024-05-02 16:49:28.712 - Main - Main executed
+2024-05-02 17:03:21.857 - Main - Main executed
+2024-05-02 17:08:25.183 - Main - Main executed
+2024-05-02 17:08:54.574 - Main - Main executed
+2024-05-02 17:13:56.803 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Break the Line' achievement!
+2024-05-02 17:13:56.803 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Take some breaks' achievement!
+2024-05-02 17:14:52.763 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'Check your classes' achievement!
+2024-05-02 17:14:52.857 - Notification - You are making progress on an achievement! You have already reached 26,00% of the next level of the 'Line-by-line' achievement!
+2024-05-20 16:31:17.377 - Main - Main executed
+2024-05-20 16:32:10.351 - Notification - Congratulations! You unlocked level 1 of the 'Test Executor' achievement!
+2024-05-20 16:32:10.481 - Notification - You are making progress on an achievement! You have already reached 33.33% of the next level of the 'The Tester' achievement!
+2024-05-20 16:32:10.974 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-05-20 16:32:47.76 - Notification - You are making progress on an achievement! You have already reached 66.67% of the next level of the 'The Tester' achievement!
+2024-05-20 16:32:48.23 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2024-05-20 16:32:48.343 - Notification - You are making progress on an achievement! You have already reached 44.00% of the next level of the 'Test Executor' achievement!
+2024-05-20 16:32:48.701 - Notification - You are making progress on an achievement! You have already reached 72.00% of the next level of the 'Test Executor' achievement!
+2024-05-20 16:32:49.046 - Notification - Congratulations! You unlocked level 2 of the 'Test Executor' achievement!
+2024-05-20 16:32:50.068 - Notification - You are making progress on an achievement! You have already reached 35.70% of the next level of the 'Test Executor' achievement!
+2024-05-20 16:34:53.197 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-05-20 16:36:53.671 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-05-20 16:46:06.3 - Notification - Congratulations! You unlocked level 1 of the 'Assert and Tested' achievement!
+2024-05-20 16:46:06.603 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-05-20 16:47:23.596 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-05-20 16:49:44.455 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-05-20 16:51:16.182 - Notification - You are making progress on an achievement! You have already reached 33.33% of the next level of the 'Double check' achievement!
+2024-05-20 16:51:19.688 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2024-05-20 16:53:54.573 - Notification - You are making progress on an achievement! You have already reached 51.60% of the next level of the 'Test Executor' achievement!
+2024-05-20 16:53:55.638 - Notification - You are making progress on an achievement! You have already reached 77.20% of the next level of the 'Test Executor' achievement!
+2024-05-20 16:53:55.68 - Notification - You are making progress on an achievement! You have already reached 25.00% of the next level of the 'The Tester' achievement!
+2024-05-20 16:53:56.164 - Notification - Congratulations! You unlocked level 3 of the 'Test Executor' achievement!
+2024-05-20 16:53:56.39 - Notification - You are making progress on an achievement! You have already reached 30.00% of the next level of the 'The Tester - Advanced' achievement!
+2024-05-20 16:53:57.016 - Notification - You are making progress on an achievement! You have already reached 50.00% of the next level of the 'The Tester - Advanced' achievement!
+2024-05-20 16:53:57.068 - Notification - You are making progress on an achievement! You have already reached 33.33% of the next level of the 'Gotta Catch â€™Em All' achievement!
+2024-05-20 16:53:57.138 - Notification - You are making progress on an achievement! You have already reached 95.00% of the next level of the 'Line-by-line' achievement!
+2024-05-20 16:53:57.27 - Notification - Congratulations! You unlocked level 1 of the 'Check your methods' achievement!
+2024-05-20 16:53:57.434 - Notification - Congratulations! You unlocked level 1 of the 'Check your branches' achievement!
+2024-05-20 16:53:58.082 - Notification - You are making progress on an achievement! You have already reached 30.00% of the next level of the 'Check your classes' achievement!
+2024-05-20 16:53:58.524 - Notification - You are making progress on an achievement! You have already reached 50.00% of the next level of the 'Check your classes' achievement!
+2024-05-20 16:53:58.96 - Notification - You are making progress on an achievement! You have already reached 80.00% of the next level of the 'Check your classes' achievement!
+2024-05-20 16:53:59.342 - Notification - Congratulations! You unlocked level 1 of the 'Check your classes' achievement!
+2024-05-20 16:54:18.071 - Notification - You are making progress on an achievement! You have already reached 33.33% of the next level of the 'Break the Line' achievement!
+2024-05-20 16:54:44.355 - Notification - You are making progress on an achievement! You have already reached 33.33% of the next level of the 'Make Your Choice' achievement!
+2024-05-20 16:54:59.631 - Notification - You are making progress on an achievement! You have already reached 33.33% of the next level of the 'The Debugger' achievement!
+2024-05-20 16:55:03.004 - Main - Main executed

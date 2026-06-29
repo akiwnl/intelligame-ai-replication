@@ -1,0 +1,10 @@
+model,prompt_level,run,num_tests,line_coverage,branch_coverage,mutation_score,golden_failed,golden_passed,own_failed,own_passed,own_fail_ratio,smells,smell_ratio
+ai-1,basic,1,,,,,,,,,,,
+ai-1,intermediate,1,,,,,,,,,,,
+ai-1,complete,1,,,,,,,,,,,
+ai-2,basic,1,,,,,,,,,,,
+ai-2,intermediate,1,,,,,,,,,,,
+ai-2,complete,1,,,,,,,,,,,
+ai-3,basic,1,,,,,,,,,,,
+ai-3,intermediate,1,,,,,,,,,,,
+ai-3,complete,1,,,,,,,,,,,
