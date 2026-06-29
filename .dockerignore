@@ -1,0 +1,19 @@
+.git
+**/node_modules
+**/__pycache__
+**/.stryker-tmp
+**/coverage
+**/dist
+
+# Segredos — nunca entram na imagem
+.env
+ai-experiment/scripts/env.sh
+*.key
+
+# Artefatos
+*.zip
+*.tmp
+*.bak
+paper/*.aux
+paper/*.log
+paper/*.out

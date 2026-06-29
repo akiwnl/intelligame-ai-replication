@@ -8,6 +8,10 @@ node_modules/
 npm-debug.log*
 yarn-error.log*
 
+# ---- Python ----
+__pycache__/
+*.pyc
+
 # ---- Saídas de build / cobertura / mutação ----
 dist/
 coverage/

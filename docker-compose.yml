@@ -1,0 +1,20 @@
+services:
+  exp:
+    build: .
+    image: ai-gamification-replication
+    # Chaves de API injetadas a partir do .env (copie de .env.example). Opcional para --dry-run.
+    env_file:
+      - .env
+    environment:
+      TZ: UTC
+    # Monta o repo para que os cenarios/results gerados fiquem no host.
+    # node_modules do baseline fica no volume nomeado (preserva o que foi instalado na imagem).
+    volumes:
+      - .:/pkg
+      - baseline_node_modules:/pkg/ai-experiment/baseline-project/node_modules
+    working_dir: /pkg/ai-experiment
+    tty: true
+    stdin_open: true
+
+volumes:
+  baseline_node_modules:

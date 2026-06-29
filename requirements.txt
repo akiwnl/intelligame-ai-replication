@@ -1,0 +1,4 @@
+# Dependencias Python do scoring (ai-experiment/scoring/*.py).
+# O runner (scripts/run_models.py) usa apenas a stdlib, nao precisa de nada aqui.
+scipy>=1.11
+matplotlib>=3.7
